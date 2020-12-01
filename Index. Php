@@ -1,6 +1,7 @@
 
 <html>
 <head>
+<?php
 <link rel="stylesheet" type="text/css" herf="style.css">
         <meta charset="utf-8">
         <meta name="viewpor"content="
@@ -65,9 +66,8 @@ body {
 <td aling="lift"><a href="form1.html">موقعنا</a></td>
 </tr>
 </table>
-<?php
 
-    <br>
+      <br>
 
 ?>
 </body>
